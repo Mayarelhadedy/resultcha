@@ -22,7 +22,7 @@ function Home() {
           <div className="memory"></div>
           <div className="verbal"></div>
           <div className="visual"></div>
-
+          <div className="visual"></div>
           <button className="continue">continue</button>
         </div>
       </div>
